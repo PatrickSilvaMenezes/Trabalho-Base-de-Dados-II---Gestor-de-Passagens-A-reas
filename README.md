@@ -72,6 +72,7 @@ processo mais simples, econômico, legível e com melhor performance.
 
 ## Referências
 ---
+
 - [DevMedia](https://www.devmedia.com.br/vantagens-da-utilizacao-de-stored-procedure
 s-em-aplicativos-web-para-melhoria-de-performance-e-seguranca/14540)
 
