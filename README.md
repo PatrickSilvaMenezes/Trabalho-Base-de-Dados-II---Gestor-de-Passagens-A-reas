@@ -73,8 +73,7 @@ processo mais simples, econômico, legível e com melhor performance.
 ## Referências
 ---
 
-- [DevMedia](https://www.devmedia.com.br/vantagens-da-utilizacao-de-stored-procedure
-s-em-aplicativos-web-para-melhoria-de-performance-e-seguranca/14540)
+- [DevMedia](https://www.devmedia.com.br/vantagens-da-utilizacao-de-stored-procedures-em-aplicativos-web-para-melhoria-de-performance-e-seguranca/14540)
 
 - [MicrosoftDeveloperNetwork](https://social.msdn.microsoft.com/Forums/pt-BR/551a44c7-c763-44dd-8cc9-b4c1bcc48faf/dvidas-sobre-triggers-e-desempenho?forum=520)
   
