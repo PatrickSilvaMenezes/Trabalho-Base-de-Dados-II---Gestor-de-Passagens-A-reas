@@ -74,7 +74,11 @@ processo mais simples, econômico, legível e com melhor performance.
 ---
 - [DevMedia](https://www.devmedia.com.br/vantagens-da-utilizacao-de-stored-procedure
 s-em-aplicativos-web-para-melhoria-de-performance-e-seguranca/14540)
+
 - [MicrosoftDeveloperNetwork](https://social.msdn.microsoft.com/Forums/pt-BR/551a44c7-c763-44dd-8cc9-b4c1bcc48faf/dvidas-sobre-triggers-e-desempenho?forum=520)
+  
 - [StackOverflow](https://stackoverflow.com/)
+  
 - [CodeProject](https://www.codeproject.com/)
+  
 - [Junior Galvão – MVP – Data Platform](https://pedrogalvaojunior.wordpress.com/2008/08/15/eliminando-o-cache-de-memoria-no-sql-server/)
