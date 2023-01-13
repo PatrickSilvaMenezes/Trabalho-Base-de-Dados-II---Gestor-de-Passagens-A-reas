@@ -46,7 +46,7 @@ $ git clone https://github.com/PatrickSilvaMenezes/Trabalho-Base-de-Dados-II---G
     1 - Deve-se ter o SQL Server instalado
 
     2 - Deve-se passar para a pasta DATA aonde está intalado o SQL Server os arquivos .mdf e .ldf
-    
+
     3 - Fazer o attach dos dois arquivos .mdf e .ldf no SQL Server
 
 ## Conclusão e Resultados Finais
@@ -72,9 +72,9 @@ processo mais simples, econômico, legível e com melhor performance.
 
 ## Referências
 ---
-[DevMedia](https://www.devmedia.com.br/vantagens-da-utilizacao-de-stored-procedure
+- [DevMedia](https://www.devmedia.com.br/vantagens-da-utilizacao-de-stored-procedure
 s-em-aplicativos-web-para-melhoria-de-performance-e-seguranca/14540)
-[MicrosoftDeveloperNetwork](https://social.msdn.microsoft.com/Forums/pt-BR/551a44c7-c763-44dd-8cc9-b4c1bcc48faf/dvidas-sobre-triggers-e-desempenho?forum=520)
-[StackOverflow](https://stackoverflow.com/)
-[CodeProject](https://www.codeproject.com/)
-[Junior Galvão – MVP – Data Platform](https://pedrogalvaojunior.wordpress.com/2008/08/15/eliminando-o-cache-de-memoria-no-sql-server/)
+- [MicrosoftDeveloperNetwork](https://social.msdn.microsoft.com/Forums/pt-BR/551a44c7-c763-44dd-8cc9-b4c1bcc48faf/dvidas-sobre-triggers-e-desempenho?forum=520)
+- [StackOverflow](https://stackoverflow.com/)
+- [CodeProject](https://www.codeproject.com/)
+- [Junior Galvão – MVP – Data Platform](https://pedrogalvaojunior.wordpress.com/2008/08/15/eliminando-o-cache-de-memoria-no-sql-server/)
