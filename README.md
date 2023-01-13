@@ -43,9 +43,11 @@ $ git clone https://github.com/PatrickSilvaMenezes/Trabalho-Base-de-Dados-II---G
 
 ## Passos para adicionar ao SQL Server  
 ---
-$ 1 - Deve-se ter o SQL Server instalado
-$ 2 - Deve-se passar para a pasta DATA aonde está intalado o SQL Server os arquivos .mdf e .ldf
-$ 3 - Fazer o attach dos dois arquivos .mdf e .ldf no SQL Server
+    1 - Deve-se ter o SQL Server instalado
+
+    2 - Deve-se passar para a pasta DATA aonde está intalado o SQL Server os arquivos .mdf e .ldf
+    
+    3 - Fazer o attach dos dois arquivos .mdf e .ldf no SQL Server
 
 ## Conclusão e Resultados Finais
 ---
